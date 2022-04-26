@@ -1,4 +1,4 @@
-git is awesome!
+ awesome!
 new line
 experiment with amend
  text
